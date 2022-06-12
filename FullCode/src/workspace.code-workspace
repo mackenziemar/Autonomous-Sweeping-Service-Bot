@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "FullCode",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sstream": "cpp",
+			"ostream": "cpp",
+			"istream": "cpp"
+		}
+	}
+}
